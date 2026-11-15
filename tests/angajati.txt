@@ -1,0 +1,5 @@
+Tehnician,1,Demo,Employee1,1900000400016,1,1,2020,Bucuresti
+Tehnician,2,Demo,Employee2,1900000400024,1,1,2020,Bucuresti
+Tehnician,3,Demo,Employee3,1900000400032,1,1,2020,Bucuresti
+Receptioner,4,Demo,Employee4,1900000400040,1,1,2020,Bucuresti
+Supervizor,5,Demo,Employee5,1900000400059,1,1,2020,Bucuresti

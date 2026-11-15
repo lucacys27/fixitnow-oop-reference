@@ -1,0 +1,5 @@
+Frigider,DemoCool,RC100,2023,1000,1,1,1,2025,1,2
+Frigider,DemoCool,RC100,2024,1000,1,1,1,2025,1,2
+Frigider,DemoCool,RC100,2024,1000,1,1,1,2025,1,3
+Frigider,DemoCool,RC100,2025,1000,1,1,1,2025,2,1
+Mixer,DemoMix,M100,2025,200,1,1,1,2025,2,1

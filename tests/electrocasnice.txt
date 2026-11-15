@@ -1,0 +1,1 @@
+Frigider,DemoCool,RC100,2023,1000,1
